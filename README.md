@@ -1,12 +1,15 @@
-- 👋 Hi, I’m Shahid Ali currently in the third year of my CS degree.
-- 👀 I’m interested in Cyber Security, learning about and working with the emerging technologies. I am in the midst of finding something that i can select and spend my time on dedicatedly.
-- I believe that it is important to find something that motivates me in many aspects. Personal growth and career building go hand in hand and the former cannot be forced. Go with the flow and adapt.
-- 🌱 I’m currently learning Java, OOPS and getting started with acquainting myself with blockchain technology.
-- 💞️ I’m looking to collaborate on domains such as SOC, Security engineering, Linux and DevOps.
-- 📫 How to reach me on LinkedIn https://www.linkedin.com/in/mohammad-shahid-ali-syed-70b939251/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
-
+# About me
+Hey there, I’m Shahid Ali currently in the final year of my CS Degree specializing in Cyber Security and digital forensics.
+I am willed towards learning and applying myself in the fields of Cyber Security and low-level programming as they both form a harmony -"Secure by Design".
+Currently spending my time learning Socket Programming and formulating plans to build projects that sing the harmony of Security.
+## Skills
+- SOC Analyst responsibilities. Completed the SOC Level 1 and Security Engineer learning paths on TryHackMe.
+- Linux Forensics, Windows Forensics, Cyber Threat Intelligence, SIEM, Endpoint Security Monitoring, System and Network Security.
+- Experience with tools such as nmap, Wireshark, sysmon, Snort, Metasploit, Splunk, Autopsy, Volatility, YARA.
+- Frameworks - OSINT, ATT&CK, OWASP Top 10
+## Intrests 
+- Code Analysis,Code Testing - Fuzzing,  Malware Analysis, Kernel Programming, Network Programming, Exploit Development, DevSecOps, Reverse Engineering, Crytography
+- Become Proficient in scripting - bash, C, python.
 <!---
 ShahidAli871/ShahidAli871 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
